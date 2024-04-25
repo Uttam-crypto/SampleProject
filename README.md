@@ -25,10 +25,15 @@ This project implements a Book Rental System using Spring Boot.
 **Endpoints**
 
 Books
+
 GET /books: Retrieve all books.
+
 GET /books/{id}: Retrieve a specific book by ID.
+
 POST /books: Create a new book.
+
 PUT /books/{id}: Update an existing book.
+
 DELETE /books/{id}: Delete a book by ID.
 
 Authors
