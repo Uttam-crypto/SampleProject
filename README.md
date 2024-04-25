@@ -66,7 +66,7 @@ Content-Type: application/json
 }
 
 
-Rent Book
+RentBook
 
 POST /api/rentals
 Content-Type: application/json
